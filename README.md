@@ -31,6 +31,6 @@ Automatic memory and disk caching.
 
 
 ![Test Image 7](https://github.com/sinansa91/Android-Json-Parse-to-Gridview/blob/master/app/src/main/res/drawable/2.PNG?raw=true) 
-![Test Image 7](https://github.com/sinansa91/Android-Json-Parse-to-Gridview/blob/master/app/src/main/res/drawable/1.PNG?raw=true)
+![Test Image 7](https://github.com/sinansa91/Android-Json-Parse-to-Gridview/blob/master/app/src/main/res/drawable/4.PNG?raw=true)
 
 
