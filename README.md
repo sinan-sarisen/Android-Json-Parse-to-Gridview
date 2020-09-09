@@ -16,7 +16,8 @@ Ease of customization, for example, for retry and backoff.
 Strong ordering that makes it easy to correctly populate your UI with data fetched asynchronously from the network.
 Debugging and tracing tools.
 
-![Test Image 7](https://github.com/sinansa91/Android-Json-Parse-to-Gridview/blob/master/images/2.PNG?raw=true) ![Test Image 7](https://github.com/sinansa91/Android-Json-Parse-to-Gridview/blob/master/images/3.PNG?raw=true)
+![Test Image 7](https://github.com/sinansa91/Android-Json-Parse-to-Gridview/blob/master/images/1.PNG?raw=true) 
+![Test Image 7](https://github.com/sinansa91/Android-Json-Parse-to-Gridview/blob/master/images/2.PNG?raw=true)
 
 Picasso;
 Images add much-needed context and visual flair to Android applications. Picasso allows for hassle-free image loading in your application—often in one line of code!
@@ -29,6 +30,7 @@ Complex image transformations with minimal memory use.
 Automatic memory and disk caching.
 
 
-![Test Image 7](https://github.com/sinansa91/Android-Json-Parse-to-Gridview/blob/master/images/1.PNG?raw=true) ![Test Image 7](https://github.com/sinansa91/Android-Json-Parse-to-Gridview/blob/master/images/4.PNG?raw=true)
+![Test Image 7](https://github.com/sinansa91/Android-Json-Parse-to-Gridview/blob/master/images/3.PNG?raw=true) 
+![Test Image 7](https://github.com/sinansa91/Android-Json-Parse-to-Gridview/blob/master/images/4.PNG?raw=true)
 
 
